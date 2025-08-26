@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    width: 100%;
+}
+
+.tudo {
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 16px;
+    font-weight: 500;
+    background: #00aeff;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h1 {
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h2{
+    border-radius: 10px;
+    background: #ebe9ea;
+    width: 60px;
+    height: 30px;
+    font-family: "Montserrat";
+    font-size: 16px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.6);
+    font-weight: lighter;
+    width: 1000px;
+    text-indent: 24px;
+}
+
+.tenis-card{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.esquerda{
+    padding: 100px;
+}
+
+   
